@@ -12,3 +12,6 @@ def division(var1, var2):
 
 def resto(var1, var2):
     return var1 % var2
+
+def potencia(var1, var2):
+    return var1 ** var2
