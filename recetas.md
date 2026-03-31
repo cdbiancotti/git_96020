@@ -7,3 +7,5 @@ Ingredientes:
 - medio kg de nalga
 - pan rallado
 - 3 huevos
+- Provenzal a gusto
+- Sal a gusto
