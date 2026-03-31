@@ -9,3 +9,11 @@ Ingredientes:
 - 3 huevos
 - Provenzal a gusto
 - Sal a gusto
+
+2. Huevo frito
+
+Ingredientes:
+
+- 1 huevo
+- Aceite
+- Sal a gusto
