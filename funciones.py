@@ -9,3 +9,6 @@ def multiplicacion(var1, var2):
 
 def division(var1, var2):
     return var1 / var2
+
+def resto(var1, var2):
+    return var1 % var2
